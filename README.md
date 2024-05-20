@@ -12,22 +12,22 @@ Greetings! I'm Merajul Hasan, a passionate React Developer on a mission to craft
 ## :bulb: Skills_
 
 <p align="center">
-<img height="150" src="https://raw.githubusercontent.com/Merajul09/Merajul09/main/Image/HTML.png"/>
-<img height="150" src="https://raw.githubusercontent.com/Merajul09/Merajul09/main/Image/CSS.png"/>
-<img height="150" src="https://raw.githubusercontent.com/Merajul09/Merajul09/main/Image/Bootstrap.png"/>
-<img height="150" src="https://raw.githubusercontent.com/Merajul09/Merajul09/main/Image/Tailwind.png"/>
+<img height="150" src="https://raw.githubusercontent.com/Merajul09/Merajul09/main/image/HTML.png"/>
+<img height="150" src="https://raw.githubusercontent.com/Merajul09/Merajul09/main/image/CSS.png"/>
+<img height="150" src="https://raw.githubusercontent.com/Merajul09/Merajul09/main/image/Bootstrap.png"/>
+<img height="150" src="https://raw.githubusercontent.com/Merajul09/Merajul09/main/image/Tailwind.png"/>
 </p>
 <p align="center">
-<img height="150" src="https://raw.githubusercontent.com/Merajul09/Merajul09/main/Image/JavaScript.png"/>
-<img height="150" src="https://raw.githubusercontent.com/Merajul09/Merajul09/main/Image/React.png"/>
-<img height="150" src="https://raw.githubusercontent.com/Merajul09/Merajul09/main/Image/ReactRouterDom.png"/>
-<img height="150" src="https://raw.githubusercontent.com/Merajul09/Merajul09/main/Image/Firebase.png"/>
+<img height="150" src="https://raw.githubusercontent.com/Merajul09/Merajul09/main/image/JavaScript.png"/>
+<img height="150" src="https://raw.githubusercontent.com/Merajul09/Merajul09/main/image/React.png"/>
+<img height="150" src="https://raw.githubusercontent.com/Merajul09/Merajul09/main/image/ReactRouterDom.png"/>
+<img height="150" src="https://raw.githubusercontent.com/Merajul09/Merajul09/main/image/Firebase.png"/>
 </p>
 <p align="center">
-<img height="150" src="https://raw.githubusercontent.com/Merajul09/Merajul09/main/Image/Nodejs.png"/>
-<img height="150" src="https://raw.githubusercontent.com/Merajul09/Merajul09/main/Image/Express.png"/>
-<img height="150" src="https://raw.githubusercontent.com/Merajul09/Merajul09/main/Image/MongoDB.png"/>
-<img height="150" src="https://raw.githubusercontent.com/Merajul09/Merajul09/main/Image/JWT.png"/>
+<img height="150" src="https://raw.githubusercontent.com/Merajul09/Merajul09/main/image/Nodejs.png"/>
+<img height="150" src="https://raw.githubusercontent.com/Merajul09/Merajul09/main/image/Express.png"/>
+<img height="150" src="https://raw.githubusercontent.com/Merajul09/Merajul09/main/image/MongoDB.png"/>
+<img height="150" src="https://raw.githubusercontent.com/Merajul09/Merajul09/main/image/JWT.png"/>
 </p>
 
 🛠️ **Currently Crafting**: React Wonders ✨
