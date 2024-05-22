@@ -8,7 +8,7 @@ Greetings! I'm Merajul Hasan, a passionate React Developer on a mission to craft
 ## :bulb: Skills_
 
 <p align="center">
-<img height="150" src="https://raw.githubusercontent.com/Merajul09/Merajul09/main/image/HTML.png"/>
+<img height="150" src="https://raw.githubusercontent.com/Merajul09/StockImage/main/image/languageUp/HTML.png"/>
 <img height="150" src="https://raw.githubusercontent.com/Merajul09/Merajul09/main/image/CSS.png"/>
 <img height="150" src="https://raw.githubusercontent.com/Merajul09/Merajul09/main/image/Bootstrap.png"/>
 <img height="150" src="https://raw.githubusercontent.com/Merajul09/Merajul09/main/image/Tailwind.png"/>
