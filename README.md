@@ -30,8 +30,6 @@ Greetings! I'm Merajul Hasan, a passionate React Developer on a mission to craft
 
 📚 **Currently Learning**: Full-Stack Development 🚀
 
-🔧 **Ask Me About**: React Sorcery 🪄
-
 📧 **Reach Me**: Let's Connect! E-mail: merajulhasan09@gmail.com
 
 🌟 **Portfolio**: [Merajul Hasan](https://merajulhasan.netlify.app/)
