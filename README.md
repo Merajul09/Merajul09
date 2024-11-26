@@ -1,7 +1,7 @@
 # Hi there 👋, I'm Merajul Hasan
 ## React Developer | Passionate about Developing Website 🚀
 
-Greetings! I'm Merajul Hasan, a passionate React Developer on a mission to craft exceptional web experiences. I specialize in React.js, Node.js, and MongoDB, weaving magic with clean code and seamless UX.
+I’m Merajul Hasan, a React developer passionate about crafting dynamic web applications that offer seamless user experiences. Currently, I’m diving deeper into advanced Node.js to expand my backend expertise and create impactful, full-stack software solutions. I thrive on learning new technologies, contributing to meaningful projects, and solving challenging problems. Let’s build something amazing together!
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Merajul09)](https://git.io/streak-stats)
 
