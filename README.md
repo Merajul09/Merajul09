@@ -1,3 +1,6 @@
+
+<img src="https://raw.githubusercontent.com/Merajul09/Merajul09/refs/heads/main/merajulBanner.svg" />
+
 # Hi there 👋, I'm Merajul Hasan
 ## React Developer | Passionate about Developing Website 🚀
 
