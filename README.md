@@ -11,21 +11,21 @@ I’m Merajul Hasan, a React developer passionate about crafting dynamic web app
 ## :bulb: Skills_
 
 <p align="center">
-<img height="150" src="https://raw.githubusercontent.com/Merajul09/StockImage/main/image/languageUp/HTML.png"/>
-<img height="150" src="https://raw.githubusercontent.com/Merajul09/StockImage/main/image/languageUp/CSS.png"/>
-<img height="150" src="https://raw.githubusercontent.com/Merajul09/StockImage/main/image/languageUp/BOOTSTRAP.png"/>
-<img height="150" src="https://raw.githubusercontent.com/Merajul09/StockImage/main/image/languageUp/TAILWIND.png"/>
+<img height="150" src="https://raw.githubusercontent.com/Merajul09/StockImage/main/image/language/html.svg"/>
+<img height="150" src="https://raw.githubusercontent.com/Merajul09/StockImage/main/image/language/css.svg"/>
+<img height="150" src="https://raw.githubusercontent.com/Merajul09/StockImage/main/image/language/bootstrap.svg"/>
+<img height="150" src="https://raw.githubusercontent.com/Merajul09/StockImage/main/image/language/tailwind.svg"/>
 </p>
 <p align="center">
-<img height="150" src="https://raw.githubusercontent.com/Merajul09/StockImage/main/image/languageUp/JAVASCRIPT.png"/>
-<img height="150" src="https://raw.githubusercontent.com/Merajul09/StockImage/main/image/languageUp/REACT.png"/>
+<img height="150" src="https://raw.githubusercontent.com/Merajul09/StockImage/main/image/language/javascript.svg"/>
+<img height="150" src="https://raw.githubusercontent.com/Merajul09/StockImage/main/image/language/react.svg"/>
 <img height="150" src="https://raw.githubusercontent.com/Merajul09/StockImage/main/image/languageUp/REACTROUTERDOM.png"/>
-<img height="150" src="https://raw.githubusercontent.com/Merajul09/StockImage/main/image/languageUp/FIREBASE.png"/>
+<img height="150" src="https://raw.githubusercontent.com/Merajul09/StockImage/main/image/language/firebase.svg"/>
 </p>
 <p align="center">
-<img height="150" src="https://raw.githubusercontent.com/Merajul09/StockImage/main/image/languageUp/NODE.png"/>
-<img height="150" src="https://raw.githubusercontent.com/Merajul09/StockImage/main/image/languageUp/EXPRESS.png"/>
-<img height="150" src="https://raw.githubusercontent.com/Merajul09/StockImage/main/image/languageUp/MONGODB.png"/>
+<img height="150" src="https://raw.githubusercontent.com/Merajul09/StockImage/main/image/language/nodejs.svg"/>
+<img height="150" src="https://raw.githubusercontent.com/Merajul09/StockImage/main/image/language/expressjs.svg"/>
+<img height="150" src="https://raw.githubusercontent.com/Merajul09/StockImage/main/image/language/mongodb.svg"/>
 <img height="150" src="https://raw.githubusercontent.com/Merajul09/StockImage/main/image/languageUp/JWT.png"/>
 </p>
 
