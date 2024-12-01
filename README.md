@@ -8,7 +8,7 @@ I’m Merajul Hasan, a React developer passionate about crafting dynamic web app
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Merajul09)](https://git.io/streak-stats)
 
-## :bulb: Skills_
+## :computer: Technologies that I know
 
 <p align="center">
 <img height="150" src="https://raw.githubusercontent.com/Merajul09/StockImage/main/image/language/html.svg"/>
