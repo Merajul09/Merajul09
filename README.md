@@ -3,7 +3,7 @@
 
 # Hi there 👋, I'm Merajul Hasan
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&center=true&width=435&lines=Front-End+Developer;Back-End+Developer;JavaScript+Developer;React+Developer;MERN-Stack+Developer;Full-Stack+Developer" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&center=true&width=435&lines=Front-End+Developer;Back-End+Developer;JavaScript+Developer;React+Developer;MERN-Stack+Developer;Full-Stack+Developer;Passionate+about+Developing+Website+🚀" alt="Typing SVG" /></a>
 
 ## React Developer | Passionate about Developing Website 🚀
 
@@ -32,15 +32,28 @@ I’m Merajul Hasan, a React developer passionate about crafting dynamic web app
 <img height="150" src="https://raw.githubusercontent.com/Merajul09/StockImage/main/image/languageUp/JWT.png"/>
 </p>
 
+## :eyes: Current overview
+
+<div align="left">
+  <a href="https://app.daily.dev/merajulhasan"><img align="right" src="https://api.daily.dev/devcards/v2/DPQSDMfeyTTetpwgmkqYX.png?type=default&r=wp9" width="200" alt="Merajul Hasan's Dev Card"/></a>
+</div>
+
 🛠️ **Currently Crafting**: React Wonders ✨
 
 📚 **Currently Learning**: Full-Stack Development 🚀
+
+🌱 **I’m exploring** - Nextjs for web.
+
+👯 **I’m looking** - Trying To collaborate on open source projects.
 
 📧 **Reach Me**: Let's Connect! E-mail: merajulhasan09@gmail.com
 
 🌟 **Portfolio**: [Merajul Hasan](https://merajulhasan.netlify.app/)
 
-🌟 **Fun Fact**: I'm an avid explorer, always up for a new adventure! 🌍
+⚡ **Fun Fact**: I'm an avid explorer, always up for a new adventure! 🌍
+
+
+<br/>
 
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Merajul09) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/merajulhasan09/) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/merajulhasan09/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/merajulhasan09/)
 
