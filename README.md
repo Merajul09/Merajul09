@@ -2,6 +2,9 @@
 <img src="https://raw.githubusercontent.com/Merajul09/Merajul09/refs/heads/main/merajulBanner.svg" />
 
 # Hi there 👋, I'm Merajul Hasan
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&center=true&width=435&lines=Front-End+Developer;Back-End+Developer;JavaScript+Developer;React+Developer;MERN-Stack+Developer;Full-Stack+Developer" alt="Typing SVG" /></a>
+
 ## React Developer | Passionate about Developing Website 🚀
 
 I’m Merajul Hasan, a React developer passionate about crafting dynamic web applications that offer seamless user experiences. Currently, I’m diving deeper into advanced Node.js to expand my backend expertise and create impactful, full-stack software solutions. I thrive on learning new technologies, contributing to meaningful projects, and solving challenging problems. Let’s build something amazing together!
