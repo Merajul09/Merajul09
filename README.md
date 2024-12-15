@@ -6,6 +6,7 @@
 <div align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&center=true&width=435&lines=Front-End+Developer;Back-End+Developer;JavaScript+Developer;React+Developer;MERN-Stack+Developer;Full-Stack+Developer;Passionate+Developing+Website+🚀" alt="Typing SVG" /></a>
 </div>
+
 ## Profile Overview:
 
 I’m Merajul Hasan, a React developer passionate about crafting dynamic web applications that offer seamless user experiences. Currently, I’m diving deeper into advanced Node.js to expand my backend expertise and create impactful, full-stack software solutions. I thrive on learning new technologies, contributing to meaningful projects, and solving challenging problems. Let’s build something amazing together!
@@ -36,7 +37,7 @@ I’m Merajul Hasan, a React developer passionate about crafting dynamic web app
 ## :eyes: Current overview
 
 <div align="left">
-  <a href="https://app.daily.dev/merajulhasan"><img align="right" src="https://api.daily.dev/devcards/v2/DPQSDMfeyTTetpwgmkqYX.png?type=default&r=wp9" width="356" alt="Merajul Hasan's Dev Card"/></a>
+  <a href="https://app.daily.dev/merajulhasan"><img align="right" src="https://api.daily.dev/devcards/v2/DPQSDMfeyTTetpwgmkqYX.png?type=default&r=wp9" width="200" alt="Merajul Hasan's Dev Card"/></a>
 </div>
 
 🛠️ **Currently Crafting**: React Wonders ✨
