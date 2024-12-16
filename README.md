@@ -5,7 +5,7 @@
 
 
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&center=true&width=435&lines=Front-End+Developer;Back-End+Developer;JavaScript+Developer;React+Developer;MERN-Stack+Developer;Full-Stack+Developer;Passionate+Developing+Website+🚀" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=500&center=true&width=435&lines=Front-End+Developer;Back-End+Developer;JavaScript+Developer;React+Developer;MERN-Stack+Developer;Full-Stack+Developer;Passionate+Developing+Website+🚀" alt="Typing SVG" /></a>
 </div>
 
 ## Profile Overview:
