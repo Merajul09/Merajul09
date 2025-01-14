@@ -71,7 +71,7 @@ I’m Merajul Hasan, a React developer passionate about crafting dynamic web app
 
 📧 **Reach Me:** merajulhasan09@gmail.com
 
-🌟 **Portfolio:** [![Merajul Hasan](https://merajulhasan.netlify.app/)]
+🌟 **Portfolio:** [Merajul Hasan](https://merajulhasan.netlify.app)
 
 ⚡ **Fun Fact:** I’m passionate about clean code, creative designs, and exploring the limitless possibilities of the web! 🌍
 
