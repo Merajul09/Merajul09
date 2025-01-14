@@ -55,20 +55,25 @@ I’m Merajul Hasan, a React developer passionate about crafting dynamic web app
   <a href="https://app.daily.dev/merajulhasan"><img align="right" src="https://api.daily.dev/devcards/v2/DPQSDMfeyTTetpwgmkqYX.png?type=default&r=wp9" width="240" alt="Merajul Hasan's Dev Card"/></a>
 </div>
 
-🛠️ **Currently Crafting**: React Wonders ✨
+🛠️ **Currently Crafting:** Exceptional React Applications ✨
 
-📚 **Currently Learning**: Full-Stack Development 🚀
+📚 **Currently Learning:** Advanced Full-Stack Development 🚀
 
-🌱 **I’m exploring** - Nextjs for web.
+🌱 **Exploring:** Next.js for seamless web experiences
 
-👯 **I’m looking** - Trying To collaborate on open source projects.
+👯 **Looking to Collaborate On:** Cutting-edge open-source projects
 
-📧 **Reach Me**: Let's Connect! E-mail: merajulhasan09@gmail.com
+💡 **Passionate About:** Building user-friendly interfaces and scalable web solutions
 
-🌟 **Portfolio**: [Merajul Hasan](https://merajulhasan.netlify.app/)
+🧑‍💻 **Tech Stack Expertise:** React, Node.js, Express.js, MongoDB,Mongoose
 
-⚡ **Fun Fact**: I'm an avid explorer, always up for a new adventure! 🌍
+🎯 **Goal:** To master modern web technologies and deliver impactful software
 
+📧 **Reach Me:** merajulhasan09@gmail.com
+
+🌟 **Portfolio:** Merajul Hasan
+
+⚡ **Fun Fact:** I’m passionate about clean code, creative designs, and exploring the limitless possibilities of the web! 🌍
 
 <br/>
 
